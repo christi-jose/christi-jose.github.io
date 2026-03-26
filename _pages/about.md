@@ -1,34 +1,67 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Environmental Scientist | Air Quality & Climate Research | Policy Translation
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: false
+  address: >
+    <p>Toronto, Ontario, Canada</p>
+    <p>Permanent Resident of Canada</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+news: false
+selected_papers: true
+social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## Welcome
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm an environmental scientist with 7+ years of experience designing and conducting field campaigns on urban air quality, atmospheric emissions, and aerosol-climate interactions. I synthesize complex, multi-source data into clear, policy-relevant insights for government partners, academic collaborators, and diverse audiences.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## Current Position
+
+**Postdoctoral Fellow** at the Southern Ontario Centre for Atmospheric Aerosol Research (SOCAAR), University of Toronto, working on tailpipe and non-tailpipe traffic emissions research.
+
+## Core Expertise
+
+**Air Quality & Emissions Research**
+- Urban air quality monitoring and characterization
+- Tailpipe and non-tailpipe traffic emission sources
+- Particulate matter composition and source apportionment
+- Mobile and fixed-site monitoring campaigns
+
+**Atmospheric Science & Instrumentation**
+- Advanced aerosol instrumentation: SMPS, CCN counter, Aethalometer, ACSM
+- Laboratory techniques: QCM-D, aerosol humidification systems
+- Field campaign design and team coordination
+- Thermodynamic modeling (ISORROPIA II)
+
+**Data Analysis & Spatial Modeling**
+- Python-based data analysis (pandas, geopandas, matplotlib, scikit-learn)
+- Land Use Regression (LUR) and spatial interpolation
+- GIS analysis (QGIS) for exposure assessment
+- Statistical modeling and source apportionment
+
+**Policy & Science Communication**
+- Evidence synthesis and technical report writing
+- Briefing preparation for government decision-makers
+- International conference presentations
+- Communicating climate science to non-specialist audiences
+
+## Education
+
+**Ph.D. in Environmental Engineering**
+Indian Institute of Technology Madras, Chennai, India (2018–2025)
+
+**Master of Science in Physics**
+National Institute of Technology Calicut, India (2015–2017)
+
+**Bachelor of Science in Physics**
+Mahatma Gandhi University, Kottayam, India (2012–2015)
+
+---
+
+**Contact:** christijose333@gmail.com | [LinkedIn](https://www.linkedin.com/in/christi-jose) | [ORCID](https://orcid.org/0009-0001-3325-7975)
